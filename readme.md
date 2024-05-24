@@ -54,3 +54,4 @@ argocd app delete <appname> #Delete an Argo CD application.
 
 
 
+"# argo-examples" 
